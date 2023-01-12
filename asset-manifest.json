@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my_portfolilo/static/css/main.af20801a.css",
+    "main.js": "/my_portfolilo/static/js/main.449bf1bc.js",
+    "static/js/787.1ed0c42c.chunk.js": "/my_portfolilo/static/js/787.1ed0c42c.chunk.js",
+    "static/media/MMMUT_Amulya_resume.pdf": "/my_portfolilo/static/media/MMMUT_Amulya_resume.ca37457e9aa390fc8845.pdf",
+    "static/media/myPic.png": "/my_portfolilo/static/media/myPic.7e2ad58c28d46d667ee5.png",
+    "static/media/rocket.png": "/my_portfolilo/static/media/rocket.518c08f31dafe47526d6.png",
+    "index.html": "/my_portfolilo/index.html",
+    "main.af20801a.css.map": "/my_portfolilo/static/css/main.af20801a.css.map",
+    "main.449bf1bc.js.map": "/my_portfolilo/static/js/main.449bf1bc.js.map",
+    "787.1ed0c42c.chunk.js.map": "/my_portfolilo/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af20801a.css",
+    "static/js/main.449bf1bc.js"
+  ]
+}
